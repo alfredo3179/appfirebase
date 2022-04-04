@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344092547159",
+    "project_id": "practica-d009d",
+    "storage_bucket": "practica-d009d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344092547159:android:9c4da0aa893df44aa92b12",
+        "android_client_info": {
+          "package_name": "com.example.calculadora2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344092547159-4rpm541k3fpin78brj559t5gd1nl9vj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRLRAv6NWeE_Ne9xG2mkBprpMQR30WJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344092547159-4rpm541k3fpin78brj559t5gd1nl9vj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

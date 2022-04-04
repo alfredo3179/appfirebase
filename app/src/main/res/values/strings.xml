@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora2</string>
+    <string name="btnStringUno">1</string>
+    <string name="btnStringDos">2</string>
+    <string name="btnStringTres">3</string>
+    <string name="btnStringCuatro">4</string>
+    <string name="btnStringCinco">5</string>
+    <string name="btnStringSeis">6</string>
+    <string name="btnStringSiete">7</string>
+    <string name="btnStringOcho">8</string>
+    <string name="btnStringNueve">9</string>
+    <string name="btnStringCero">0</string>
+    <string name="btnStringPunto">.</string>
+
+    <string name="btnStringSuma">+</string>
+    <string name="btnStringResta">-</string>
+    <string name="btnStringMultiplca">x</string>
+    <string name="btnStringDivide">/</string>
+    <string name="btnStringSeno">Sen</string>
+    <string name="btnStringCoseno">Cos</string>
+
+</resources>
